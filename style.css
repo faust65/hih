@@ -13,76 +13,160 @@ a{
 
 .cont{
     width: 1200px;
-    height: 700px;
+    height: 2000px;
 }
 
 header{
     width: 1200px;
     height: 100px;
+    text-align: center;
 }
 
-header h3{}
+header h3{
+    width: 1200px;
+    height: 50px;
+}
 
-header p{}
+header p{
+    width: 1200px;
+    height: 50px;
+}
 
 .sec{
     width: 1200px;
     height: 300px;
 }
 
-.profile{}
+.profile{
+    width: 1200px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
 
-.profile img{}
+.profile img{
+    width: 100px;
+    height: 100px;
+}
 
-.nametext{}
+.nametext{
+    width: 1200px;
+    height: 100px;
+}
 
-.nametext h3{}
+.nametext h3{
+    width: 1200px;
+    height: 50px;
+}
 
-.nametext p{}
+.nametext p{
+    width: 100px;
+    height: 50px;
+    color: #f44;
+}
 
-.name{}
+.name{
+    width: 1200px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
-.name p{}
+.name p{
+    height: 100px;
+}
 
-.param{}
+.param{
+    height: 100px;
+}
 
-hr{}
+hr{
+    width: 1200px;
+    height: 10px;
+}
 
-.cptitle{}
+.cptitle{
+    text-align: left;
+}
 
-.cpdiv{}
+.cpdiv{
+    width: 1200px;
+    height: 200px;
+}
 
-.cp{}
+.cp{
+    width: 1200px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
-.cptext{}
+.cptext{
+    height: 100px;
+}
 
-.cptext img{}
+.cptext img{
+    height: 50px;
+}
 
-.cptext p{}
+.cptext p{
+    height: 50px;
+}
 
-.cpbtn{}
+.cpbtn{
+    width: 100px;
+    height: 100px;
+}
 
-.cpbtn img{}
+.cpbtn img{
+    width: 100px;
+    height: 100px;
+}
 
-.boontitle{}
+.boontitle{
+    text-align: left;
+}
 
-.boon{}
+.boon{
+    width: 1200px;
+    height: 1100px;
+}
 
-.boon li{}
+.boon li{
+    width: 1200px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
-.boonbtn{}
+.boonbtn{
+    width: 50px;
+    height: 50px;
+}
 
-.boonname{}
+.boonname{
+    height: 100px;
+}
 
 footer{
     width: 1200px;
     height: 300px;
 }
 
-footer p{}
+footer p{
+    text-align: left;
+}
 
-.site{}
+.site{
+    width: 50px;
+    height: 50px;
+}
 
-.site a{}
-
-.site a img{}
+.site a img{
+    width: 50px;
+    height: 50px;
+}
