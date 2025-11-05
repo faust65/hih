@@ -4,6 +4,7 @@
     text-decoration: none;
     border: 1px solid black;
     margin: 0 auto;
+    font-family: sans-serif;
 }
 
 a{
@@ -20,12 +21,68 @@ header{
     height: 100px;
 }
 
+header h3{}
+
+header p{}
+
 .sec{
     width: 1200px;
     height: 300px;
 }
 
+.profile{}
+
+.profile img{}
+
+.nametext{}
+
+.nametext h3{}
+
+.nametext p{}
+
+.name{}
+
+.name p{}
+
+.param{}
+
+hr{}
+
+.cptitle{}
+
+.cpdiv{}
+
+.cp{}
+
+.cptext{}
+
+.cptext img{}
+
+.cptext p{}
+
+.cpbtn{}
+
+.cpbtn img{}
+
+.boontitle{}
+
+.boon{}
+
+.boon li{}
+
+.boonbtn{}
+
+.boonname{}
+
 footer{
     width: 1200px;
     height: 300px;
 }
+
+footer p{}
+
+.site{}
+
+.site a{}
+
+.site a img{}
